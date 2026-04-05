@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Manaswi 👋
 
-<!--
-**MoonLawlier/MoonLawlier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AIML Student | Aspiring Developer
 
-Here are some ideas to get you started:
+🚀 Currently building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+* Python (beginner → intermediate)
+* HTML, CSS, JavaScript (learning)
+* Data Structures & Algorithms (learning)
+
+---
+
+## 🚀 Projects
+
+* **Titanic Survival Prediction (ML Project)**
+
+  * Built a basic machine learning model to predict passenger survival
+
+* **Rentro – Rental Web Application (in progress)**
+
+  * Developing a platform to list and rent items with a user-friendly UI
+
+---
+
+## 📈 Currently Learning
+
+* Python + DSA
+* Frontend Development
+* Building real-world projects
+
+---
+
+## 🎯 Goal
+
+To become a skilled developer and secure strong internships
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/manaswi-sorde-177852334](http://www.linkedin.com/in/manaswi-sorde-177852334)
