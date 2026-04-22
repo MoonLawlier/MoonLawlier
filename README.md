@@ -14,11 +14,10 @@ I am an AIML student from India, and before college, I never thought I was gonna
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ My Quote
+![](https://i.pinimg.com/736x/a6/2a/16/a62a169834a4ac65774d60f6d9c9c636.jpg))
 
 
 ---
 [![](https://komarev.com/ghpvc/?username=MoonLawlier&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
