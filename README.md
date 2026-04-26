@@ -19,5 +19,5 @@ I am an AIML student from India, and before college, I never thought I was gonna
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=MoonLawlier&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
