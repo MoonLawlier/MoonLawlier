@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an AIML student from India, and before college, I never thought I was gonna break into tech, so everything is new. And new is the fuel to my Curiosity! <br><br>I am a reader 📖 | Aspiring Author ✍️<br><br>I love Astronomy 🌌 | Anime❤️ | Music🎶 | Nature🌳<br><br>I am into Fashion designing👒 | Drawing or painting👩‍🎨 | Language learning (currently learning Japanese🇯🇵 ) | Video Editing 🎥 (though a beginner) | Love making Canva posts 🥰<br><br>
+I am an AIML student from India, and before college, I never thought I was gonna break into tech, so everything is new. And new is the fuel to my Curiosity! <br><br>I am a reader 📖 | Aspiring Author ✍️<br><br>I love Astronomy 🌌 | Anime❤️ | Music🎶 | Nature🌳<br><br>I am into Fashion designing👒 | Drawing or painting👩‍🎨 | Language learning (currently learning Japanese) | Video Editing 🎥 (though a beginner) | Love making Canva posts 🥰 | Chess♟️<br><br>
 
 
 ## 🌐 Socials:
