@@ -47,7 +47,6 @@
 ### ✍️ My Quote
 ![](https://i.pinimg.com/736x/a6/2a/16/a62a169834a4ac65774d60f6d9c9c636.jpg))
 
-
 ---
 
 
